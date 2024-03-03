@@ -1,1 +1,1 @@
-Hello!<br>This is a lil' silly beta test for my gt horror game!
+Hello!<br>This is a lil' silly beta test for my gt horror game!<br>the motd is DYNAMIC so this might be different every time you load in!
